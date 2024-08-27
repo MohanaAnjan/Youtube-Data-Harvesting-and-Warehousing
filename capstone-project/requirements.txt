@@ -1,0 +1,7 @@
+googleapiclient
+pandas
+pymysql
+sqlalchemy
+datetime
+re
+streamlit
